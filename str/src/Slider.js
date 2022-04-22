@@ -1,6 +1,6 @@
 import React,{useState,useEffect} from 'react'
 import { AiOutlineArrowLeft,AiOutlineArrowRight } from "react-icons/ai";
-import {FaQuoteRight} from "react-icons/fa"
+import {FaQuoteRight} from "react-icons/fa";
 import {sliderData}from'./Sliderdata'
 import './Slider.css'
 
